@@ -216,6 +216,21 @@
     color: #FFFFFF !important;
 }
 
+.services-scroll
+{
+    
+    position:absolute;
+    overflow-y: scroll;
+    height:67%;
+}
+
+/* #style::-webkit-services-scroll-thumb  ----->>>> tried adding styles to scrollbar in services. 
+{
+    background-color: var(--light);  
+    border-radius: 20px;       
+    border: 3px solid var(--primary);
+} */
+
 
 /*** Booking ***/
 .booking {
